@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+.venv/
+
+# Personal / private files
+process.txt
+
+# Generated analysis intermediates (recreatable by running fetch_geo.R)
+analysis/counts.csv
+analysis/metadata.csv
+analysis/ma_plot.pdf
+analysis/volcano_plot.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
